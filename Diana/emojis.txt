@@ -1,0 +1,59 @@
+emojis that we want to see in buildweb
+
+Unicode emojis at: https://unicode.org/emoji/charts/full-emoji-list.html
+Example Codepen: https://codepen.io/0525/pen/xxwozbX
+
+Random Emojis
+'💐'
+'🌺'
+'🌼'
+'🌷'
+'🏖'
+'🍧'
+'🍦'
+'🍿'
+'🍄'
+'🦋'
+'🦖'
+'🦩'
+'🤖'
+'😎'
+'🥳'
+'🤩'
+'😀'
+'🎈'
+'🎊'
+'🎉'
+
+Holiday Emojis
+'🧧' Chinese new year , but changes every year
+
+'🎉' 1-1 all (New Year)
+'🥧' 3-14 usa (Pie Day)
+'🍀' 3-17 all (St. Patricks)
+'😃' 3-10 all (Day of Happiness)
+'💧' 3-22 all (World Water Day)
+'🩺' 4-7 all (World Health Day)
+'🚀' 4-12 all (Human Space Flight Day)
+'🌱' 4-22 all (Earth Day)
+'🎷' 4-30 (Jazz Day)
+'🇲🇽' 5-5 (5 de Mayo) usa
+'👩‍💻' 5-8 all (Women's Day)
+'🐝' 5-20 (Bee Day)
+'🚲' 6-3 (Bicycle Day)
+'🌊' 6-8 (Ocean's Day)
+'🍨' 7-19 usa (Ice Cream Day)
+'♟' 7-20 (Chess Day)
+'💻' 9-13 all (Programmer's Day)
+'🎃' 10-31 usa week? (Halloween)
+'🍺' 11-7 (Stout Day)
+'👨‍💻' 11-19 (Men's Day)
+'🎄' 12-25 all week? (Christmas)
+'🎊🎁' can make all month of December?
+
+
+Algorithm possibilities
+
+If there is an emoji for today => assign that emoji
+If the above is not and there is one for the week => assign that emoji (what if there is two for that week? How to know if it applies for the week?)
+If the 2 above are not => then assign a random emoji
